@@ -1,4 +1,4 @@
-# Portfólio do Projeto GIt/GitHub
+# Portfólio do Projeto Git/GitHub
 Desafio de Projeto sobre Git/GitHub
 
 ## Links Úteis
